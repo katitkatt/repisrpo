@@ -1,0 +1,50 @@
+E:\рпм\2048\2048\bin\Debug\2048.exe.config
+E:\рпм\2048\2048\bin\Debug\2048.exe
+E:\рпм\2048\2048\bin\Debug\2048.pdb
+E:\рпм\2048\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+E:\рпм\2048\2048\obj\Debug\_2048.Form1.resources
+E:\рпм\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+E:\рпм\2048\2048\obj\Debug\2048.csproj.GenerateResource.cache
+E:\рпм\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+E:\рпм\2048\2048\obj\Debug\2048.exe
+E:\рпм\2048\2048\obj\Debug\2048.pdb
+G:\рпм\2048\2048\bin\Debug\2048.exe.config
+G:\рпм\2048\2048\bin\Debug\2048.exe
+G:\рпм\2048\2048\bin\Debug\2048.pdb
+G:\рпм\2048\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+G:\рпм\2048\2048\obj\Debug\_2048.Form1.resources
+G:\рпм\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+G:\рпм\2048\2048\obj\Debug\2048.csproj.GenerateResource.cache
+G:\рпм\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+G:\рпм\2048\2048\obj\Debug\2048.exe
+G:\рпм\2048\2048\obj\Debug\2048.pdb
+E:\рпм\2048 (1 версия)\2048\bin\Debug\2048.exe.config
+E:\рпм\2048 (1 версия)\2048\bin\Debug\2048.exe
+E:\рпм\2048 (1 версия)\2048\bin\Debug\2048.pdb
+E:\рпм\2048 (1 версия)\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+E:\рпм\2048 (1 версия)\2048\obj\Debug\_2048.Form1.resources
+E:\рпм\2048 (1 версия)\2048\obj\Debug\_2048.Properties.Resources.resources
+E:\рпм\2048 (1 версия)\2048\obj\Debug\2048.csproj.GenerateResource.cache
+E:\рпм\2048 (1 версия)\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+E:\рпм\2048 (1 версия)\2048\obj\Debug\2048.exe
+E:\рпм\2048 (1 версия)\2048\obj\Debug\2048.pdb
+G:\рпм\2048 (1 версия)\2048\bin\Debug\2048.exe.config
+G:\рпм\2048 (1 версия)\2048\bin\Debug\2048.exe
+G:\рпм\2048 (1 версия)\2048\bin\Debug\2048.pdb
+G:\рпм\2048 (1 версия)\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+G:\рпм\2048 (1 версия)\2048\obj\Debug\_2048.Form1.resources
+G:\рпм\2048 (1 версия)\2048\obj\Debug\_2048.Properties.Resources.resources
+G:\рпм\2048 (1 версия)\2048\obj\Debug\2048.csproj.GenerateResource.cache
+G:\рпм\2048 (1 версия)\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+G:\рпм\2048 (1 версия)\2048\obj\Debug\2048.exe
+G:\рпм\2048 (1 версия)\2048\obj\Debug\2048.pdb
+D:\рпм\2048 (1 версия)\2048\bin\Debug\2048.exe.config
+D:\рпм\2048 (1 версия)\2048\bin\Debug\2048.exe
+D:\рпм\2048 (1 версия)\2048\bin\Debug\2048.pdb
+D:\рпм\2048 (1 версия)\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+D:\рпм\2048 (1 версия)\2048\obj\Debug\_2048.Form1.resources
+D:\рпм\2048 (1 версия)\2048\obj\Debug\_2048.Properties.Resources.resources
+D:\рпм\2048 (1 версия)\2048\obj\Debug\2048.csproj.GenerateResource.cache
+D:\рпм\2048 (1 версия)\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+D:\рпм\2048 (1 версия)\2048\obj\Debug\2048.exe
+D:\рпм\2048 (1 версия)\2048\obj\Debug\2048.pdb
